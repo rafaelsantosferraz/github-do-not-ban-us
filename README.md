@@ -724,6 +724,7 @@ You can:
 - Praveen Kumar Saini from India 🇮🇳 ([praveen-me](https://github.com/praveen-me))
 - Quoc Khanh from Vietnam 🇻🇳 ([bkdev98](https://github.com/bkdev98))
 - raben2 from Germany 🇩🇪 ([raben2](https://github.com/raben2))
+- Rafael Santos Ferraz from Brazil 🇧🇷 ([rafaelsantosferraz](https://github.com/rafaelsantosferraz))
 - Rafael Silvério Amaral from Brazil 🇧🇷 ([rafaelsilverioit](https://github.com/rafaelsilverioit))
 - Ragty from China 🇨🇳 ([Ragty](https://github.com/huoji555))
 - Rahmanism from Iran 🇮🇷 ([Rahmansim](https://github.com/Rahmanism))
